@@ -1,8 +1,4 @@
-# ML Concepts - Ignore Rules
-
-
-
-\# Prueba
+ML Concepts - Ignore Rules
 
 
 
