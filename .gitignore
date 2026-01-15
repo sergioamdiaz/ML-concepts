@@ -1,3 +1,28 @@
 # ML Concepts - Ignore Rules
 
+# Data Folder:
+Data/
 
+# Docs Folder:
+Docs/
+
+# Trained Models:
+Notebooks/efficientdet_car_pedestrian.keras
+*.keras
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter (auto backups)
+.ipynb_checkpoints/
+
+# VSCode (local setup)
+.vscode/
+
+# MacOS extra
+.DS_Store
+
+# Cache general
+.cache/
