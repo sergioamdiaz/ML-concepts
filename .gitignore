@@ -2,9 +2,11 @@
 
 # Data Folder:
 Data/
+data/
 
 # Docs Folder:
 Docs/
+docs/
 
 # Trained Models:
 Notebooks/efficientdet_car_pedestrian.keras
