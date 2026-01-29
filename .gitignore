@@ -4,6 +4,9 @@
 Data/
 data/
 
+# Data Docs:
+*.csv
+
 # Docs Folder:
 Docs/
 docs/
